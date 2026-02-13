@@ -70,4 +70,9 @@ else:
     # Loops 
     for i in range(0,90):
         print(i)
-    
+    def check_even_odd(nums):
+        if nums % 2 == 0:
+            print("even")
+        else:
+            print("odd")
+        check_even_odd
