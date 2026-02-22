@@ -77,4 +77,11 @@ else:
             print("odd")
         check_even_odd
     # List 
-    
+    my_list = [1, 2, 3, 4, 5]
+    print(my_list)
+    data = [1, "lucky",3.14, True]
+    print(data)
+    fruits = ["apple", "banana", "cherry"]
+    print(fruits[0])
+    print(fruits[1])
+    print(fruits[2])    
