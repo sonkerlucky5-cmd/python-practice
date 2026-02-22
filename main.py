@@ -76,3 +76,5 @@ else:
         else:
             print("odd")
         check_even_odd
+    # List 
+    
