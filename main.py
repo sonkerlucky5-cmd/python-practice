@@ -85,3 +85,6 @@ else:
     print(fruits[0])
     print(fruits[1])
     print(fruits[2])    
+    numbers = [5, 10, 15, 20]
+    for num in numbers:
+        print(num)
