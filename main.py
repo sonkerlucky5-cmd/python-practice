@@ -88,3 +88,5 @@ else:
     numbers = [5, 10, 15, 20]
     for num in numbers:
         print(num)
+    for i in range(len(fruits)):
+        print(fruits[i])
