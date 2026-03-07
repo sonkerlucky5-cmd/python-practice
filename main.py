@@ -90,3 +90,4 @@ else:
         print(num)
     for i in range(len(fruits)):
         print(fruits[i])
+    
