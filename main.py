@@ -90,4 +90,13 @@ else:
         print(num)
     for i in range(len(fruits)):
         print(fruits[i])
+    #comparison oprator
+    a = 10
+    b = 20
+    print ( a > b)
+    print ( a < b)
+    print ( a == b)
+    print ( a != b)
+    print ( a >= b)
+    print ( a <= b)         
     
