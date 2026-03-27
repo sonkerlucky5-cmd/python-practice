@@ -11,7 +11,6 @@ password = "1234"
 
 while True:
     user = input("Enter password: ")
-    
     if user == password:
         print("Access granted")
         break
