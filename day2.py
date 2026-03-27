@@ -47,7 +47,7 @@ if num % 2 == 0:
     print("even number")
 else:
     print("odd number")
-
+# Task 2
 # traffic light color checker
 color = input("Enter the light color:")
 if color =="red":
@@ -59,6 +59,7 @@ elif color =="green":
 else:
     print("invalid color")
 
+# Task 3
 # Leap year checker
 year = int(input("Enter the year:"))
 if (year % 4 == 0 and year % 100 != 0) or (year % 400 == 0):
