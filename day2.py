@@ -39,5 +39,29 @@ if num >= 18:
 else:
     print("not eligible for voting")
 
+# day 2 Task completed
+# Task 1
+# Even or odd number checker
+num =int(input("enter the number:"))
+if num % 2 == 0:
+    print("even number")
+else:
+    print("odd number")
 
-           
+# traffic light color checker
+color = input("Enter the light color:")
+if color =="red":
+    print("stop")
+elif color =="yellow":
+    print("ready")
+elif color =="green":
+    print("go")
+else:
+    print("invalid color")
+
+# Leap year checker
+year = int(input("Enter the year:"))
+if (year % 4 == 0 and year % 100 != 0) or (year % 400 == 0):
+    print("leap year")
+else:
+    print("not a leap year")
