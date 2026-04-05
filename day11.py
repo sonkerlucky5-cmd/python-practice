@@ -22,3 +22,22 @@ arr = np.array([1,2,3,4,5,6])
 print(arr.shape)      # (6,)
 new_arr = arr.reshape(2,3)
 print(new_arr)
+# array indexing and slicing
+import numpy as np
+arr = np.array([1,2,3,4,5,6])
+print(arr[0])    
+print(arr[1:4])   
+# mathematical operations
+import numpy as np 
+arr1 = np.array([1,2,3])
+arr2 = np.array([4,5,6])
+print(arr1 + arr2)  
+print(arr1 * arr2)
+print(arr1 / arr2)
+print(arr1 - arr2)
+print(arr1 ** arr2)
+print(arr1 % arr2)
+print(arr1 // arr2)
+print(np.sqrt(arr1))
+print(np.exp(arr1)) 
+print(np.log(arr1))
