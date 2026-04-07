@@ -29,3 +29,12 @@ print("Original Random Array:", random_arr)
 print("Maximum Value:", np.max(random_arr))
 chote_numbers = random_arr[random_arr < 50]
 print("Numbers less than 50:", chote_numbers)
+# numpy parctice
+import numpy as np 
+arr = np.array([1, 2, 3, 4, 5])
+print("original array:", arr)
+print("array after adding 5:", arr + 5)
+print("array after multiplying by 2:", arr * 2)
+print("array after squaring:", arr ** 2)
+print("mean of the array:", np.mean(arr))
+print("standard deviation of the array:", np.std(arr))
