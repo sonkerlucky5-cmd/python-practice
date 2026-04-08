@@ -29,7 +29,7 @@ print("Original Random Array:", random_arr)
 print("Maximum Value:", np.max(random_arr))
 chote_numbers = random_arr[random_arr < 50]
 print("Numbers less than 50:", chote_numbers)
-# numpy parctice
+# numpy practice
 import numpy as np 
 arr = np.array([1, 2, 3, 4, 5])
 print("original array:", arr)
