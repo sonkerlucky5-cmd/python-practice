@@ -1,0 +1,6 @@
+Name,Age,Price,Dept_HR,Dept_IT,Dept_Sales,Discounted_Price
+Purav,35.0,300.0,0,0,1,270.0
+Satyam,27.5,250.0,1,0,0,225.0
+Bob,30.0,200.0,1,0,0,180.0
+Abhinav,25.0,150.0,0,1,0,135.0
+Alice,23.0,100.0,0,1,0,90.0
